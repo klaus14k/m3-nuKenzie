@@ -1,0 +1,12 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.9375rem;
+
+    input {
+        background: var(--grey-1);
+        border: 2px solid var(--grey-1);
+        border-radius: 8px;
+        padding: 0.75rem 1rem;
+    }
+}

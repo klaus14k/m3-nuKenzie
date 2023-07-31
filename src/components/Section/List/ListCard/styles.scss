@@ -1,0 +1,22 @@
+li {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.9375rem;
+    background-color: var(--grey-1);
+    border: none;
+    border-left: 4px solid var(--color-secondary);
+    border-radius: 4px;
+
+    button {
+        padding: 5px 10px;
+        border: none;
+        border-radius: 2px;
+        background: var(--grey-2);
+        color: #212529;
+        font-family: "Nunito", sans-serif;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+}
